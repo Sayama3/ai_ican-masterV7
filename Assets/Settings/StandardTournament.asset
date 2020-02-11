@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13a9aff0c89041f0bc44251250a6c5e1, type: 3}
+  m_Name: StandardTournament
+  m_EditorClassIdentifier: Assembly-CSharp::TournamentSettings
+  teamNames:
+  - iannis
+  - lecamus
+  matchNumber: 3
+  automatized: 0
+  timeSpeed: 1
+  gameSettings: {fileID: 11400000, guid: 84744aceaf734374e9e180f49993a820, type: 2}
+  botSettings: {fileID: 11400000, guid: 6e05f1aa5b0e7a543a1cd2ead4f34947, type: 2}
+  rocketSettings: {fileID: 11400000, guid: ee1c1ab9d506d0d48adcf8520e3d143c, type: 2}
+  teamSettings: {fileID: 11400000, guid: dfc58031d7e1dc44488040f3a28d48df, type: 2}

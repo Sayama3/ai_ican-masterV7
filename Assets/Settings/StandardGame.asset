@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9cc535fbe35420c86650d785c6ee95c, type: 3}
+  m_Name: StandardGame
+  m_EditorClassIdentifier: 
+  teamprefab: {fileID: 1000013510080052, guid: c63eaa23a263989448cf507a1c16b6d0, type: 3}
+  botPrefab: {fileID: 1000013510080052, guid: 08eb68de028abb84cb20237dcec36863, type: 3}
+  flagPrefab: {fileID: 1000011221882186, guid: 5ab871e1406108a4f8bfd25dc322c6e0, type: 3}
+  flagSpawnTimer: 3
+  respawnTime: 5
